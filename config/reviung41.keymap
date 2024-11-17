@@ -26,6 +26,11 @@
             bindings = <&kp LEFT_BRACE>;
             key-positions = <32 33>;
         };
+
+        minus {
+            bindings = <&kp MINUS>;
+            key-positions = <35 34>;
+        };
     };
 
     keymap {
