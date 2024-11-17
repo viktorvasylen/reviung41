@@ -18,12 +18,12 @@
         };
 
         rightbrace {
-            bindings = <&kp RIGHT_BRACE>;
+            bindings = <&kp RIGHT_BRACKET>;
             key-positions = <34 33>;
         };
 
         leftbrace {
-            bindings = <&kp LEFT_BRACE>;
+            bindings = <&kp LEFT_BRACKET>;
             key-positions = <32 33>;
         };
 
